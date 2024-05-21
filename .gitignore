@@ -1,0 +1,126 @@
+# React Native
+node_modules/
+*.log
+*.swp
+*.swo
+.expo/
+.idea/
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX/
+._*
+
+# Android
+android/.gradle
+android/app/build
+android/build
+android/.idea
+android/.cxx/
+android/.externalNativeBuild/
+
+# iOS
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+xcdebugger/
+# Xcode iOS
+Pods/
+Podfile.lock
+ios/Podfile.lock
+ios/Pods/
+ios/Podfile.lock/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.lock.lock
+
+# Swift Package Manager
+.swiftpm
+Package.resolved
+.build/
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile/
+
+# Fastlane
+ios/fastlane/report.xml
+ios/fastlane/Preview.html
+ios/fastlane/screenshots/**/*.png
+ios/fastlane/test_output/
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+yarn.lock
+
+# Expo
+.expo
+web-build/
+
+# Miscellaneous
+*.lock
+*.tmp
+*.temp
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jest
+/coverage
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Metro
+.expo
+.vscode
+.expo-shared
+
+# Buck
+buck-out/
+\.buckd/
+*.keystore
+!default.keystore
+
+# Build folders
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile.lock.lock
+ios/Podfile.lock.lock.lock
+ios/build/
+ios/build/build/
+
+# react-native
+*.bridge
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Expo
+.expo
+web-build/
+
+# miscellaneous
+.env
